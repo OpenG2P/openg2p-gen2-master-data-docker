@@ -11,7 +11,7 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - name: staff-portal-api
+          - name: openg2p-gen2-master-data
             serviceFile: openg2p-gen2-master-data/gen2-master-data.txt
         
     steps:
