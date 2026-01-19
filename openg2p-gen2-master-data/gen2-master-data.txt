@@ -1,4 +1,4 @@
 # gen2-master-data.txt
-#!psnappz/openg2p-gen2-master-data:develop
+#!openg2p/openg2p-gen2-master-data:develop
 #!openg2p-gen2-master-data/Dockerfile.api
 #!.
