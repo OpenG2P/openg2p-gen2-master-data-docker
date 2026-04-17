@@ -1,0 +1,4 @@
+#!openg2p/openg2p-gen2-master-data-api:1.0
+git://1.1//https://github.com/openg2p/openg2p-fastapi-common#subdirectory=openg2p-fastapi-common
+git://1.1//https://github.com/openg2p/openg2p-fastapi-common#subdirectory=openg2p-fastapi-auth
+git://1.0//https://github.com/openg2p/openg2p-gen2-master-data-api
